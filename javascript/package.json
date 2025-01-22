@@ -6,7 +6,7 @@
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Irfan M. Ghat",
   "license": "ISC",
   "description": "This service handles sending notifications to Slack.",
   "dependencies": {
